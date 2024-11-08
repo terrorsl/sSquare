@@ -4,7 +4,6 @@ import matplotlib.pyplot
 import numpy as np
 import skimage
 from matplotlib.backends.backend_pdf import PdfPages
-from reportlab.pdfbase.pdfdoc import PDFPages
 from tqdm import tqdm
 
 
